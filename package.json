@@ -1,0 +1,18 @@
+{
+  "name": "duckmc-messagecounter",
+  "version": "1.0.0",
+  "description": "I counting messages!",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fedox",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "discord-slash-command-handler": "^3.1.7",
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security",
+    "mongoose": "5.13.14",
+    "toml": "^3.0.0"
+  }
+}

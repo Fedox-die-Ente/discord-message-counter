@@ -1,0 +1,17 @@
+[ general ]
+token = "OTY1OTU0NDg3ODQxODQ5NDA1.Yl6tOA.vDt-n1x9eaXQOsSgR6th9PzeVHM" # Bot Token
+prefix = "" # Bot Prefix
+mongodb_url = "" # MongoDB URL
+guild = "915489382264369162" # Deine Guild ID
+
+[ id ]
+client_id = "965954487841849405" # Die ID vom Bot
+guild_id = "915489382264369162" # Deine Guild ID
+
+[[ status ]]
+name = "Nachrichten zählen." # Name der Richpresence
+type = "PLAYING" # PLAYING, LISTENING, WATCHING
+
+[[ status ]]
+name = "Nachrichten an."
+type = "WATCHING"
