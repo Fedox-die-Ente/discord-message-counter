@@ -2,11 +2,11 @@
 token = "" # Bot Token
 prefix = "" # Bot Prefix
 mongodb_url = "" # MongoDB URL
-guild = "915489382264369162" # Deine Guild ID
+guild = "" # Deine Guild ID
 
 [ id ]
-client_id = "965954487841849405" # Die ID vom Bot
-guild_id = "915489382264369162" # Deine Guild ID
+client_id = "" # Die ID vom Bot
+guild_id = "" # Deine Guild ID
 
 [[ status ]]
 name = "Nachrichten zählen." # Name der Richpresence
