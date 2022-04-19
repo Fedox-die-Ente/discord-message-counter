@@ -1,5 +1,5 @@
 [ general ]
-token = "OTY1OTU0NDg3ODQxODQ5NDA1.Yl6tOA.vDt-n1x9eaXQOsSgR6th9PzeVHM" # Bot Token
+token = "" # Bot Token
 prefix = "" # Bot Prefix
 mongodb_url = "" # MongoDB URL
 guild = "915489382264369162" # Deine Guild ID
